@@ -39,7 +39,7 @@ Testing set(20% of the dataset)
 
 Logistic regression model is applied on the training dataset and when tested on the testing dataset the following results were obtained:
 
-Confusion matrix:
+Confusion matrix:<br>
 <img width="585" alt="Screenshot 2022-02-04 at 5 37 26 PM" src="https://user-images.githubusercontent.com/79460453/152526602-c34a340c-2cfd-4b99-895a-74d9a004915f.png">
 
 Accuracy Score = 0.9562043795620438
